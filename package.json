@@ -1,0 +1,29 @@
+{
+  "name": "puppeteer-boilerplate",
+  "version": "1.0.0",
+  "description": "The boilerplate for puppteer that I used to",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.9.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bangyuwen/puppeteer-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "puppteer",
+    "nvm",
+    "typescript"
+  ],
+  "author": "bangyuwen@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bangyuwen/puppeteer-boilerplate/issues"
+  },
+  "homepage": "https://github.com/bangyuwen/puppeteer-boilerplate#readme"
+}
